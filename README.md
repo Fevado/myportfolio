@@ -3,7 +3,7 @@ I hope you're doing well. My name is Favoured Mwange, a full-stack developer pas
 
 I've put together my portfolio to showcase my skills, projects, and experience in front-end and back-end development using technologies like React, Flask, JavaScript, and Python. You can explore it here:
 
-👉 View My Portfolio:
+👉 View My Portfolio: https://favouredm.netlify.app
 
 # About Me
 I am a software developer from Kenya with expertise in:
