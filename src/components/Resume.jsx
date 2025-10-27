@@ -7,7 +7,7 @@ const Resume = () => {
         </p>
         <div className="space-x-4">
           <a
-            href="public/Favoured_Mwange_Mobile_Dev_Resume.pdf"
+            href="public/Favoured_Mwange_Software_Developer_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white text-black px-6 py-3 rounded-lg font-medium shadow hover:bg-gray-300 transition"
@@ -15,7 +15,7 @@ const Resume = () => {
             View Resume
           </a>
           <a
-            href="public/Favoured_Mwange_Mobile_Dev_Resume.pdf"
+            href="public/Favoured_Mwange_Software_Developer_Resume.pdf"
             download
             className="bg-green-600 text-white px-6 py-3 rounded-lg font-medium shadow hover:bg-green-700 transition"
           >

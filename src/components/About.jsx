@@ -6,7 +6,8 @@ export default function About() {
           Hi, I’m <span className="font-semibold">Favoured Mwange</span>, a passionate mobile developer 
           specializing in building apps that make a difference. I graduated from 
           a six-month <span className="font-semibold">Software Engineering Bootcamp at Moringa School</span>, 
-          where I focused on Flutter, React, and full-stack fundamentals.
+          where I focused on React, and full-stack fundamentals. I later joined Power Learn Project (PLP) where I focused on Dart & Flutter 
+          and that is my area of specialization. Check out my resume for more information.
         </p>
         <p className="mt-4 text-gray-300 leading-relaxed">
           Over time, I’ve built projects like <span className="font-semibold">Pakisha</span> (a food donation app), 
@@ -15,7 +16,7 @@ export default function About() {
         </p>
         <p className="mt-4 text-gray-300 leading-relaxed">
           When I’m not coding, I’m probably watching football ⚽ — loyal Manchester United fan here.  
-          I’m always eager to learn, build, and solve new challenges.
+          I’m always eager to learn, build, and solve new challenges.I'm one button away from solving your problem.
         </p>
       </section>
     );

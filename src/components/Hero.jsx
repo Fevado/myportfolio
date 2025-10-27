@@ -9,7 +9,7 @@ export default function Hero() {
           <a href="#projects" className="px-4 py-2 bg-green-600 rounded-lg hover:bg-green-700 transition">
             View My Work
           </a>
-          <a href="public/Favoured_Mwange_Mobile_Dev_Resume.pdf" className="px-4 py-2 border border-gray-500 rounded-lg hover:bg-gray-800 transition" download>
+          <a href="public/Favoured_Mwange_Software_Developer_Resume.pdf" className="px-4 py-2 border border-gray-500 rounded-lg hover:bg-gray-800 transition" download>
             Download CV
           </a>
         </div>
